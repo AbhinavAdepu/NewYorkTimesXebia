@@ -22,7 +22,6 @@ const NyListItem = props => {
                     onClick={() => {
                       setOpenDetails(true);
                       setItemDetail(item);
-                      setShowBlock(true);
                     }}
                     style={{ borderBottom: "1px solid #eee" }}
                   >
@@ -84,7 +83,6 @@ const NyListItem = props => {
           setOpenDetails={setOpenDetails}
           openDetails={openDetails}
           itemDetail={itemDetail}
-          showBlock={showBlock}
         />
       )}
     </React.Fragment>
