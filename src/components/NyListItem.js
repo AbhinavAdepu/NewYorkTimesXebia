@@ -79,14 +79,14 @@ const NyListItem = props => {
               );
             })}
       </ul>
-      {
+      {setOpenDetails && (
         <DetailNews
           setOpenDetails={setOpenDetails}
           openDetails={openDetails}
           itemDetail={itemDetail}
           showBlock={showBlock}
         />
-      }
+      )}
     </React.Fragment>
   );
 };
