@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NewYorkTimesXebia/precache-manifest.4264ef136bd776e95dc70c6a44c44578.js"
+  "/NewYorkTimesXebia/precache-manifest.e9eb807681236d00e115049807f7fa6f.js"
 );
 
 self.addEventListener('message', (event) => {
