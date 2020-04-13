@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NewYorkTimesXebia/static/css/main.020d75e0.chunk.css",
-    "main.js": "/NewYorkTimesXebia/static/js/main.0b16cf0a.chunk.js",
-    "main.js.map": "/NewYorkTimesXebia/static/js/main.0b16cf0a.chunk.js.map",
+    "main.js": "/NewYorkTimesXebia/static/js/main.c38f99cb.chunk.js",
+    "main.js.map": "/NewYorkTimesXebia/static/js/main.c38f99cb.chunk.js.map",
     "runtime-main.js": "/NewYorkTimesXebia/static/js/runtime-main.ca5f6b3b.js",
     "runtime-main.js.map": "/NewYorkTimesXebia/static/js/runtime-main.ca5f6b3b.js.map",
     "static/js/2.c453abf4.chunk.js": "/NewYorkTimesXebia/static/js/2.c453abf4.chunk.js",
     "static/js/2.c453abf4.chunk.js.map": "/NewYorkTimesXebia/static/js/2.c453abf4.chunk.js.map",
     "index.html": "/NewYorkTimesXebia/index.html",
-    "precache-manifest.e9eb807681236d00e115049807f7fa6f.js": "/NewYorkTimesXebia/precache-manifest.e9eb807681236d00e115049807f7fa6f.js",
+    "precache-manifest.4ebb62706827af5ddfa55ed6bbd47112.js": "/NewYorkTimesXebia/precache-manifest.4ebb62706827af5ddfa55ed6bbd47112.js",
     "service-worker.js": "/NewYorkTimesXebia/service-worker.js",
     "static/css/main.020d75e0.chunk.css.map": "/NewYorkTimesXebia/static/css/main.020d75e0.chunk.css.map",
     "static/js/2.c453abf4.chunk.js.LICENSE.txt": "/NewYorkTimesXebia/static/js/2.c453abf4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ca5f6b3b.js",
     "static/js/2.c453abf4.chunk.js",
     "static/css/main.020d75e0.chunk.css",
-    "static/js/main.0b16cf0a.chunk.js"
+    "static/js/main.c38f99cb.chunk.js"
   ]
 }
