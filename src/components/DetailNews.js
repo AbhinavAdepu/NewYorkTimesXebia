@@ -34,6 +34,7 @@ const DetailNews = props => {
         onClose={handleClose}
         aria-labelledby="alert-dialog-title"
         aria-describedby="alert-dialog-description"
+        TransitionComponent={Transition}
       >
         <DialogTitle
           id="alert-dialog-title"
