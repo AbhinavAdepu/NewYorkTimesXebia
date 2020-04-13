@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NewYorkTimesXebia/static/css/main.595c2d01.chunk.css",
+    "main.css": "/NewYorkTimesXebia/static/css/main.401e2ee3.chunk.css",
     "main.js": "/NewYorkTimesXebia/static/js/main.c38f99cb.chunk.js",
     "main.js.map": "/NewYorkTimesXebia/static/js/main.c38f99cb.chunk.js.map",
     "runtime-main.js": "/NewYorkTimesXebia/static/js/runtime-main.ca5f6b3b.js",
@@ -8,15 +8,15 @@
     "static/js/2.c453abf4.chunk.js": "/NewYorkTimesXebia/static/js/2.c453abf4.chunk.js",
     "static/js/2.c453abf4.chunk.js.map": "/NewYorkTimesXebia/static/js/2.c453abf4.chunk.js.map",
     "index.html": "/NewYorkTimesXebia/index.html",
-    "precache-manifest.9e0827b811b06cb07995cce8ba29c267.js": "/NewYorkTimesXebia/precache-manifest.9e0827b811b06cb07995cce8ba29c267.js",
+    "precache-manifest.02b1b1659d41669d8f54ca9df60af59c.js": "/NewYorkTimesXebia/precache-manifest.02b1b1659d41669d8f54ca9df60af59c.js",
     "service-worker.js": "/NewYorkTimesXebia/service-worker.js",
-    "static/css/main.595c2d01.chunk.css.map": "/NewYorkTimesXebia/static/css/main.595c2d01.chunk.css.map",
+    "static/css/main.401e2ee3.chunk.css.map": "/NewYorkTimesXebia/static/css/main.401e2ee3.chunk.css.map",
     "static/js/2.c453abf4.chunk.js.LICENSE.txt": "/NewYorkTimesXebia/static/js/2.c453abf4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ca5f6b3b.js",
     "static/js/2.c453abf4.chunk.js",
-    "static/css/main.595c2d01.chunk.css",
+    "static/css/main.401e2ee3.chunk.css",
     "static/js/main.c38f99cb.chunk.js"
   ]
 }
