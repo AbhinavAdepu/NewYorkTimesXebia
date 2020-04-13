@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8c7af56f9379c1064551c8f7168be08",
+    "revision": "97fbde26ae2000300bb12bafb2267b8b",
     "url": "/NewYorkTimesXebia/index.html"
   },
   {
-    "revision": "131d323ccd7fa80abddb",
+    "revision": "797d1a445458e880b257",
     "url": "/NewYorkTimesXebia/static/css/main.020d75e0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NewYorkTimesXebia/static/js/2.c453abf4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "131d323ccd7fa80abddb",
-    "url": "/NewYorkTimesXebia/static/js/main.1212de0d.chunk.js"
+    "revision": "797d1a445458e880b257",
+    "url": "/NewYorkTimesXebia/static/js/main.78b1f881.chunk.js"
   },
   {
     "revision": "9286f3cf355f9be8e91d",
