@@ -6,7 +6,7 @@ import DetailNews from "./DetailNews";
 
 const NyListItem = props => {
   const { listArray } = props;
-  const [openDetails, setOpenDetails] = React.useState(true);
+  const [openDetails, setOpenDetails] = React.useState(false);
   const [itemDetail, setItemDetail] = React.useState(null);
 
   return (
