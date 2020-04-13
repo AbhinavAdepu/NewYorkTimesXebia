@@ -78,7 +78,7 @@ const NyListItem = props => {
               );
             })}
       </ul>
-      {setOpenDetails && (
+      {openDetails && (
         <DetailNews
           setOpenDetails={setOpenDetails}
           openDetails={openDetails}
