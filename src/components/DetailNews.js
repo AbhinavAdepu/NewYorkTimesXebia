@@ -19,7 +19,7 @@ const Transition = React.forwardRef(function Transition(props, ref) {
 });
 
 const DetailNews = props => {
-  const { itemDetail, openDetails, setOpenDetails, showBlock } = props;
+  const { itemDetail, openDetails, setOpenDetails } = props;
 
   const handleClose = () => {
     setOpenDetails(false);
@@ -28,7 +28,6 @@ const DetailNews = props => {
   return (
     <div>
       <Dialog
-        style={{ display: showBlock ? "block" : "none" }}
         fullWidth
         fullScreen
         open={openDetails}
